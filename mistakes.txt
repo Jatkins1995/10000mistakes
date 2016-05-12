@@ -1,3 +1,4 @@
+Forgetting a semicolon at some point
 Having a semicolon after a loop
 Forgetting to leave space for the NULL character
 Forgetting to add a NULL character at the end of a string
@@ -9,3 +10,6 @@ Forgetting a colon when required in Python
 Forgetting end in a Ruby statement
 Upgrading node without considering the effect on the system
 Commiting large amounts of code with small commit messages
+Using sudo with bundler
+Not updating /etc/enviornment
+Trying to memorize commands rather then writing them down
