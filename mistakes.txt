@@ -13,3 +13,15 @@ Commiting large amounts of code with small commit messages
 Using sudo with bundler
 Not updating /etc/enviornment
 Trying to memorize commands rather then writing them down
+Pre-maturly optimizing things
+Forgetting to actually test if a function is called instead just mocking it out
+Using sudo -rm -rf and * in the same command
+Allowing classes to get to big
+Not speaking up when I see dirty code
+Not following standards
+Hard coding in values that should be in congid files
+Having the wrong quotes around python JSON
+Using single Quotes in Bash
+Leaving vauge commit messages
+Forgetting to write down my mistakes >_<
+Messing up interfaces
